@@ -6,20 +6,20 @@ const fs = require("fs");
 const chalk = require("chalk");
 const { Telegraf } = require("telegraf");
 
-const bot = new Telegraf("YOUR TOKEN"); // get token in BotFather Telegram
+const bot = new Telegraf("AHH93gO9LrHV6biMa626a98baYDAYhQiEaA"); // get token in BotFather Telegram
 
 // Please don't delete the credit :)
 
 function sendStart(ctx) {
-  bot.telegram.sendMessage(ctx.chat.id, "NHENTAI BOT\n\nJust send me nhentai code and i send you nhentai pdf :)\n\nSource code : https://github.com/mccnlight/nHentai-project",
+  bot.telegram.sendMessage(ctx.chat.id, "NHENTAI BOT\n\nJust send me nhentai code and i send you nhentai pdf :)\n\nSource code : https://github.com/HilmySakti/nHentai-project",
     {
       reply_markup: {
         inline_keyboard: [
           [{
-            text: 'Owner ♥️', url: 'http://t.me/linlxn8'
+            text: 'Owner ♥️', url: 'http://wa.me/+6281217779427'
           },
             {
-              text: 'Donate ☕', url: 'https://trakteer.id/lintodamamiya'
+              text: 'Donate ☕', url: 'https://trakteer.id/HilmyGaming87\nhttps://saweria.co/HilmyBot'
             }]
         ]
       },
