@@ -19,7 +19,7 @@ function sendStart(ctx) {
             text: 'Owner ♥️', url: 'http://wa.me/+6281217779427'
           },
             {
-              text: 'Donate ☕', url: 'https://trakteer.id/HilmyGaming87\nhttps://saweria.co/HilmyBot'
+            text: 'Donate ☕', url: 'DONATE ME FOR PLEASE:)\nTRAKTEER: https://trakteer.id/HilmyGaming87\nSAWERIA: https://saweria.co/HilmyBot\n\n~END~'
             }]
         ]
       },
