@@ -1,6 +1,6 @@
 # Doujin Telegram Bot
 
-[![My Instagram](https://img.shields.io/badge/My%20Instagram-@lindoww.8-green)](https://www.instagram.com/Hilmyshop.Official)
+[![My Instagram](https://img.shields.io/badge/My%20Instagram-@HilmyShop.Official-green)](https://www.instagram.com/Hilmyshop.Official)
 
 [![Trakteer](https://img.shields.io/badge/Support%20Me!-Trakteer-green)](https://trakteer.id/HilmyGaming87)
 
