@@ -25,7 +25,7 @@ A simple telegram bot used to download doujin
 - Edit bot token `di main.js`:
 
 ```js
-const bot = new Telegraf("YOUR TOKEN")
+const bot = new Telegraf("AHH93gO9LrHV6biMa626a98baYDAYhQiEaA")
 ```
 
 ### Penggunaan
